@@ -1,0 +1,13 @@
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+.div1 {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.div1 > ul:nth-child(2) {
+ list-style: none;
+}
