@@ -22,6 +22,25 @@ body div {
     background-color: white;
 }
 
+/* TODO: Remember to credit!!!
+ https://unsplash.com/collections/619629/square-orientation */
+
+.image_container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.image_container div img{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+}
+
+.content h3 {
+    text-align: center;
+    width: 200px;
+}
+
 .sign_up_button {
     background-color: #3882F6;
     padding: 20px;
