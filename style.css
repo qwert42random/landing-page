@@ -26,6 +26,16 @@ body div {
     background-color: #E5E7EB;
 }
 
+.div3 h2 {
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.div3 h3 {
+    text-align: right;
+}
+
 /* TODO: Remember to credit!!!
  https://unsplash.com/collections/619629/square-orientation */
 
